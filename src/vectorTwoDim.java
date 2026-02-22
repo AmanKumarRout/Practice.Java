@@ -56,6 +56,7 @@ class Vector2d {
         }
         //dot product
 
+
     double dot(){
         double dotProd = (x*u) + (y*v);
         return dotProd;

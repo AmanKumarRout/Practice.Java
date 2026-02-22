@@ -10,8 +10,6 @@ public class PracticeOOPS1 {
 
         System.out.println(book2);
 
-
-
     }
 }
 class Book {
