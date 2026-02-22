@@ -7,6 +7,7 @@ public class PracticeOOPS1 {
         //book1.price=599.00;
         //System.out.println(book1.author);
         Book book2 = new Book("This is a Book","R.K. Laude",599.00);
+
         System.out.println(book2);
 
 
