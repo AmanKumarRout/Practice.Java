@@ -8,5 +8,4 @@ class A {
         System.out.println("Constructor Called");
     }
 
-
 }
